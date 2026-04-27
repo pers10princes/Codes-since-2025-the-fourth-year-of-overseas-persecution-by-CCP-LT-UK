@@ -5,7 +5,7 @@ class Solution
     int
     strStr
     (
-        String haystac
+        String haystack
         , String needle
     )
     {
